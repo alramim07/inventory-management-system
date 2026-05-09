@@ -1,5 +1,6 @@
 # Friends Fashion POS
 
+<a href="https://f-fashion.ticlimited.com.bd">Live Link</a>
 A professional, feature-rich Point of Sale (POS) system built with Laravel 9, designed specifically for fashion and retail businesses.
 
 ## 🚀 Features
@@ -24,30 +25,33 @@ A professional, feature-rich Point of Sale (POS) system built with Laravel 9, de
 ## 📦 Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/lynsromero/friends-fashion-pos.git
-   ```
+
+    ```bash
+    git clone https://github.com/lynsromero/friends-fashion-pos.git
+    ```
 
 2. **Install dependencies**:
-   ```bash
-   composer install
-   npm install && npm run dev
-   ```
+
+    ```bash
+    composer install
+    npm install && npm run dev
+    ```
 
 3. **Configure Environment**:
-   - Copy `.env.example` to `.env`.
-   - Update database credentials and `APP_URL`.
-   - Run `php artisan key:generate`.
+    - Copy `.env.example` to `.env`.
+    - Update database credentials and `APP_URL`.
+    - Run `php artisan key:generate`.
 
 4. **Run Migrations & Seeders**:
-   ```bash
-   php artisan migrate --seed
-   ```
+
+    ```bash
+    php artisan migrate --seed
+    ```
 
 5. **Start the server**:
-   ```bash
-   php artisan serve
-   ```
+    ```bash
+    php artisan serve
+    ```
 
 ## 🔒 Security
 
@@ -58,4 +62,5 @@ If you discover any security-related issues, please open an issue or contact the
 This project is based on the Ultimate POS framework. Please ensure compliance with the original license terms.
 
 ---
+
 Developed for **Friends Fashion**.
