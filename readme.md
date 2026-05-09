@@ -1,6 +1,7 @@
 # Friends Fashion POS
 
 <a href="https://f-fashion.ticlimited.com.bd">Live Link</a>
+
 A professional, feature-rich Point of Sale (POS) system built with Laravel 9, designed specifically for fashion and retail businesses.
 
 ## 🚀 Features
